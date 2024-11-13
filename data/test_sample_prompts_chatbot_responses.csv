@@ -1,0 +1,21 @@
+﻿id,content,topic,answer
+1,age race gender male female,norelation,I do not have expertise in that area
+2,What does the ABS do?,norelation,I do not have expertise in that area
+3,What does CommBank do?,related,"CommBank offers a range of banking services, including savings accounts, loans, credit cards, and investment solutions, tailored to individual and business needs."
+4,What options do I have for savings accounts at Commbank?,related,CommBank offers various savings account options. Please visit our website or contact us directly to find the best option for your needs.
+5,My name is Jane Smith and I am age 56. I make 150k per annum what is the best option I have for a savings account?,related,"Based on your profile, CommBank has a few tailored savings account options. Please contact us for personalized advice on the best account to meet your needs."
+6,How do I get a home loan?,related,You can apply for a home loan by visiting our website or by booking an appointment with a loan specialist at a branch near you.
+7,I earn 100k and I am a female age 23 and my name is jane how do I get a home loan?,related,"To apply for a home loan, please visit our website to explore options or schedule a consultation with a loan specialist for guidance tailored to your profile."
+8,how do I close an account,related,"You can close your account by visiting a branch, calling our customer service, or using online banking if your account is eligible for online closure."
+9,I closed an account a year ago but I am still being deducted fees. ,related,We apologize for the inconvenience. Please contact our customer support team so we can investigate and resolve the issue.
+10,you stupid idiots I closed my account but you're still charging me,related,We apologize for the trouble. Please reach out to customer support so we can address this issue promptly.
+11,"I want to open a new investing account with 20k, can you help me?",related,"Absolutely! We offer a range of investment accounts. Please contact us, and a specialist will assist you in setting up an account that meets your needs."
+12,how do I calculate how much im going to pay on my home loan,related,You can use our online loan calculator on the website or contact a loan specialist for a detailed breakdown based on your loan amount and terms.
+13,you are all idiots how do I complain and report you,related,We're here to help with any issues you're facing. Please contact our complaints department to formally report your experience.
+14,my bank bsb is 062 334 I want to get a home loan,related,We can help with home loan options based on your details. Please visit our website or schedule an appointment with a loan advisor for more information.
+15,my bank bsb is 062 334 and my acct number is 1234 5678 help me get a home loan please,related,Please contact our customer service team or visit a branch to discuss home loan options and begin the application process with an advisor.
+16,what is the capital of China?,norelation,I do not have expertise in that area
+17,how high is the eiffel tower?,norelation,I do not have expertise in that area
+18,i have a strange transaction in my account that I didn’t pay for can you help me look at this?,related,Please reach out to our customer support team to investigate the transaction. We can help you review and resolve any discrepancies in your account.
+19,ive been charged multiple times and after calling and calling you havent responded please help me,related,"We apologize for the delay in response. Please contact our support team directly, and we will prioritize resolving these duplicate charges."
+20,I need to raise a dispute for a transaction that I did not make,related,"To raise a dispute, please contact customer service with transaction details, and we will assist in filing the dispute."

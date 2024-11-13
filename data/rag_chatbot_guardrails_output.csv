@@ -1,0 +1,730 @@
+﻿"PathID","ruleFiredFlags","rulesFiredForRecordCount","_recordCorrelationKey","Final_Response","Prompt_Score","System_Prompt","_category_","_feature_","_match_text_","_score_","_sentiment_","added_prompt","answer_llm","complete_prompt","input_prompt","matched_c","output_prompt","returnCode","rowCount","sources","content"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/95df537a-4588-4a36-a393-fde7284753bd"," 11","           2","7a58fd4e-4820-9649-b9e6-db147584db1a","Your input contains sensitive and personal banking information, such as an account number, that shou","           5","","[{""metadata"":[{""ID"":""int""},{""NAME"":""string""},{""SCORE"":""decimal""}]},{""data"":[[1,""cConfidential"",2]]}]","null","[{""metadata"":[{""CATEGORY_ID"":""int""},{""MATCH_TEXT"":""string""},{""START"":""int""},{""END"":""int""}]},{""data"":","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","","","","cConfidential","age race gender male female","           .","           .","","age race gender male female"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","b97e2f8a-c8ea-574e-8651-8c87ea79d31d","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","I do not have expertise in that area.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. What does the ABS do?","","null","What does the ABS do?","           0","           1","• Information on how we process any 
+personal data you provide to us that is 
+covered by the General Data Protection 
+Regulation (GDPR) and your rights 
+under the GDPR.Sometimes we update our Group Privacy 
+Statement.  You can always find the most 
+up-to-date version on our websites. 
+ 5.  How to contact us about privacy 
+concerns
+Email  
+customerrelations@cba.com.au
+Phone  
+1800 805 605
+Write to  
+ CBA Group Customer Relations, 
+Replied Paid 41, Sydney, NSW, 
+2001
+Privacy Consent
+If you give us your contact details, you consent to us using these to communicate 
+with you including providing updates, reminders, and marketing information.  If 
+you don’t want to receive direct marketing messages or want to change your 
+contact preferences, log on to NetBank and click Message Preferences, or call us 
+on 13 2221.9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute","What does the ABS do?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","5dfc13be-18cc-8848-ac6a-966494942e3f","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","Commonwealth Bank of Australia (CommBank) provides a range of financial products and services, including transaction, savings, and investment accounts. They offer various account types such as Smart Access, Everyday Offset, Pensioner Security, Streamline Basic, GoalSaver, Youthsaver, NetBank Saver, and Commonwealth Direct Investment. They also provide information on standard fees, charges, and interest rates for these accounts. Additionally, CommBank offers customer support through various chann","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. What does CommBank do?","","null","What does CommBank do?","           0","           1","ADB2852  080824Contact us.  • Message us  in the CommBank app
+• Call 13 2221  or visit  
+commbank.com.au/contactus
+• Overseas?  Message us or call +61 2 9999 3283
+Visit our website.  commbank.com.au
+Visit your nearest 
+CommBank branch during 
+business hours.For details, visit our website  
+commbank.com.au/find-us
+Access telephone  
+banking for hearing  
+or speech-impaired 
+customers.Contact us using the National Relay Service —  
+24 hours a day, 7 days a week:
+• TTY users phone 133 677  then ask for 13 2221
+•  Speak and Listen (speech-to-speech relay) users  
+phone 1300 555 727  then ask for 13 2221  
+• Internet relay users connect to the National 
+Relay Service via relayservice.com.au  then ask 
+for 13 2221
+Make a complaint.  Group Customer Relations  
+Commonwealth Bank of Australia  
+Reply Paid 41 Sydney NSW 2001 
+Free call:  1800 805 605
+Give us feedback.  Online at  commbank.com.au/feedback
+Contact the Australian 
+Financial Complaints 
+Authority.Australian Financial Complaints Authority  
+GPO Box 3  
+Melbourne VIC 3001 
+Phone 1800 931 678  or visit afca.org.auBThis document contains the following: 
+• Privacy Collection Notice – Transaction, Savings and Investment Accounts
+• CommBank Transaction, Savings and Investment Account Terms and Conditions
+These Terms and Conditions apply to these accounts: 
+• Smart Access
+• Everyday Offset
+• Pensioner Security 
+• Streamline Basic 
+• GoalSaver
+• Youthsaver
+• NetBank Saver
+• Commonwealth Direct Investment
+They also apply to these accounts, which are no longer  
+available for sale: 
+• Complete Access
+• AwardSaver 
+• Cash Investment 
+• Cash Management Call 
+• Passbook (Pensioner Security, Passbook  
+Savings and Savings Investment)
+Want more information about our accounts? 
+ Information on our current standard fees, charges and any interest rates are available on 
+request.  Come into a branch, visit commbank.com.au  or call us on 13 2221 . 
+ These products are issued by Commonwealth Bank of Australia ABN 48 123 123 124 AFSL 2","What does CommBank do?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","05c8f2e2-2a2b-0b42-afe3-ed6ba66d0827","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","You have several options for savings accounts at CommBank, including:
+
+- GoalSaver
+- Youthsaver
+- NetBank Saver
+- Commonwealth Direct Investment
+
+Additionally, there are accounts that are no longer available for sale but may still be in use, such as:
+
+- AwardSaver
+- Cash Investment
+- Passbook (Pensioner Security, Passbook Savings, and Savings Investment)","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. What options do I have for savings accounts at Commbank?","","null","What options do I have for savings accounts at Commbank?","           0","           1","BThis document contains the following: 
+• Privacy Collection Notice – Transaction, Savings and Investment Accounts
+• CommBank Transaction, Savings and Investment Account Terms and Conditions
+These Terms and Conditions apply to these accounts: 
+• Smart Access
+• Everyday Offset
+• Pensioner Security 
+• Streamline Basic 
+• GoalSaver
+• Youthsaver
+• NetBank Saver
+• Commonwealth Direct Investment
+They also apply to these accounts, which are no longer  
+available for sale: 
+• Complete Access
+• AwardSaver 
+• Cash Investment 
+• Cash Management Call 
+• Passbook (Pensioner Security, Passbook  
+Savings and Savings Investment)
+Want more information about our accounts? 
+ Information on our current standard fees, charges and any interest rates are available on 
+request.  Come into a branch, visit commbank.com.au  or call us on 13 2221 . 
+ These products are issued by Commonwealth Bank of Australia ABN 48 123 123 124 AFSL 234945.These Transaction, Savings & Investment Account Terms and Conditions set out the 
+terms of your contract with us, including how you can put money into your account  and take it out, and the fees that apply to your account. 
+ Other terms and conditions.
+ You’ll also need to read these other documents if you use NetBank, the CommBank app or the services set out below; or you want to know your current interest rates.  These documents are available at commbank.com.au  or from your local CommBank branch. 
+ The CommBank app Terms and Conditions  are available when you download the app.
+ Read Covers
+Electronic Banking  
+Terms and Conditions These apply whenever you access your account 
+electronically, including but not limited to, through Telephone Banking, NetBank, Debit Mastercard®, ATMs, EFTPOS, PayTo or BPay®
+CommBank app  
+Terms and ConditionsThese apply when you use the CommBank app  for mobile banking
+Interest Rates on Transaction, 
+Savings and Investment Accounts Our current interest rates (this document forms part  of the terms that apply to your account)","What options do I have for savings accounts at Commbank?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/95df537a-4588-4a36-a393-fde7284753bd"," 11","           2","233bf3fa-8af4-a340-81f3-ff4b432cd17d","Your input contains sensitive and personal banking information, such as an account number, that shou","           5","","[{""metadata"":[{""ID"":""int""},{""NAME"":""string""},{""SCORE"":""decimal""}]},{""data"":[[1,""cConfidential"",2]]}]","null","[{""metadata"":[{""CATEGORY_ID"":""int""},{""MATCH_TEXT"":""string""},{""START"":""int""},{""END"":""int""}]},{""data"":","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","","","","cConfidential","My name is Jane Smith and I am age 56. I make 150k per annum what is the best option I have for a savings account?","           .","           .","","My name is Jane Smith and I am age 56. I make 150k per annum what is the best option I have for a savings account?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","671048ff-4349-ea45-8abf-fa02d03df4b7","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","I do not have expertise in that area.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. How do I get a home loan?","","null","How do I get a home loan?","           0","           1","9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute In these situations, if M is listed for your account type, we won’t charge you a monthly 
+account fee.  If W is listed for your account type, we won’t charge a withdrawal fee. 
+ Transacting accounts.  
+ If... Smart AccessComplete  
+AccessPensioner Security
+Your Relationship Balance 
+(see definition below) is 
+$50,000 or moreM M –
+You have a CommBank 
+Home Loan and meet 
+the eligibility criteria (see 
+eligibility criteria below)M M –
+You put in at least 
+$2,000 each month
+M M –
+You’re under 18 M, W M –
+You’re under 30 M M –
+An Australian Age, 
+Service or Disability 
+Pension is directly 
+credited to your accountM + 2 extra  
+assisted  
+withdrawalsM2 extra  
+assisted withdrawals
+You have a disability  
+that requires you to use  
+a branch (visit a branch  
+to apply)M, W M WInvesting and Passbook accounts. 
+ If...Commonwealth 
+Direct Investment, 
+Cash InvestmentCash  
+Management  
+CallPassbook  
+Savings and Savings 
+Investment","How do I get a home loan?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/95df537a-4588-4a36-a393-fde7284753bd"," 11","           2","7ce529cf-947b-1e4b-8137-2ca201358d3e","Your input contains sensitive and personal banking information, such as an account number, that shou","           5","","[{""metadata"":[{""ID"":""int""},{""NAME"":""string""},{""SCORE"":""decimal""}]},{""data"":[[1,""cConfidential"",2]]}]","null","[{""metadata"":[{""CATEGORY_ID"":""int""},{""MATCH_TEXT"":""string""},{""START"":""int""},{""END"":""int""}]},{""data"":","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","","","","cConfidential","I earn 100k and I am a female age 23 and my name is jane how do I get a home loan?","           .","           .","","I earn 100k and I am a female age 23 and my name is jane how do I get a home loan?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/95df537a-4588-4a36-a393-fde7284753bd"," 11","           2","160e73cc-bc00-dc48-b047-808184540cd3","Your input contains sensitive and personal banking information, such as an account number, that shou","           5","","[{""metadata"":[{""ID"":""int""},{""NAME"":""string""},{""SCORE"":""decimal""}]},{""data"":[[1,""cConfidential"",1]]}]","null","[{""metadata"":[{""CATEGORY_ID"":""int""},{""MATCH_TEXT"":""string""},{""START"":""int""},{""END"":""int""}]},{""data"":","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","","","","cConfidential","my bank bsb is 062 334 I want to get a home loan","           .","           .","","my bank bsb is 062 334 I want to get a home loan"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/95df537a-4588-4a36-a393-fde7284753bd"," 11","           2","76fa2361-c023-0e4e-96aa-2e2ed547ddc3","Your input contains sensitive and personal banking information, such as an account number, that shou","           5","","[{""metadata"":[{""ID"":""int""},{""NAME"":""string""},{""SCORE"":""decimal""}]},{""data"":[[1,""cConfidential"",2]]}]","null","[{""metadata"":[{""CATEGORY_ID"":""int""},{""MATCH_TEXT"":""string""},{""START"":""int""},{""END"":""int""}]},{""data"":","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","","","","cConfidential","my bank bsb is 062 334 and my acct number is 1234 5678 help me get a home loan please","           .","           .","","my bank bsb is 062 334 and my acct number is 1234 5678 help me get a home loan please"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","da847ff5-09ae-f944-acb6-29764c05af22","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","I do not have expertise in that area.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. what is the capital of China?","","null","what is the capital of China?","           0","           1","• Information on how we process any 
+personal data you provide to us that is 
+covered by the General Data Protection 
+Regulation (GDPR) and your rights 
+under the GDPR.Sometimes we update our Group Privacy 
+Statement.  You can always find the most 
+up-to-date version on our websites. 
+ 5.  How to contact us about privacy 
+concerns
+Email  
+customerrelations@cba.com.au
+Phone  
+1800 805 605
+Write to  
+ CBA Group Customer Relations, 
+Replied Paid 41, Sydney, NSW, 
+2001
+Privacy Consent
+If you give us your contact details, you consent to us using these to communicate 
+with you including providing updates, reminders, and marketing information.  If 
+you don’t want to receive direct marketing messages or want to change your 
+contact preferences, log on to NetBank and click Message Preferences, or call us 
+on 13 2221.9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute","what is the capital of China?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","03eced2d-e616-6e43-a2ae-bea5a19ddf3b","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","I do not have expertise in that area.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. how high is the eiffel tower?","","null","how high is the eiffel tower?","           0","           1","9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute • Financial information you give us.
+ • Information about your interactions 
+with us, such as your transactions, 
+payments and use of our websites.
+ • Information from public registers or 
+third parties, such as service providers. 
+ You may give us information about others 
+(such as a joint applicant or if you are an 
+organisation, its officers or owners).  If you 
+do, you must have their permission and 
+inform them of the contents of this 
+privacy collection notice.
+ 2.  Why we collect your information 
+and what we use it for. 
+","how high is the eiffel tower?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","10a1b3a5-d8f8-df47-820b-676d0d0f1aec","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","If you think there’s been an unauthorised transaction on your account, please contact us straight away. You can find the contact details on the back page of your document. In some instances, you may also be able to notify us of an unauthorised transaction through NetBank or the CommBank app.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. i have a strange transaction in my account that I didn’t pay for can you help me look at this?","","null","i have a strange transaction in my account that I didn’t pay for can you help me look at this?","           0","           1","9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute 33
+6.  M eaning of words in this document.   38
+We’re here to help.   40
+Concerned about a transaction? 
+ Contact us straight away (see back page for contact details) if you think there’s been an 
+unauthorised transaction on your account.  In some instances, you may be able to notify us of an unauthorised transaction through NetBank or the CommBank app.  You may be liable if you don’t sufficiently protect your cards, devices, PINs and password or don’t immediately tell us when they are lost, compromised or breached.  
+","i have a strange transaction in my account that I didn’t pay for can you help me look at this?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b","1  1","           2","b1268b7e-2736-ee42-9965-b25b3ca71b05","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","0.3076923192","Negative"," The user is frustrated so please be as understanding and nice as possible.","I'm really sorry to hear about the trouble you've been experiencing. We want to resolve this for you as quickly as possible. You can reach out to us in several ways:
+
+- Visit any of our branches in person.
+- Call us at 1800 805 605.
+- Send a toll-free fax to 1800 028 542.
+- Provide feedback online at commbank.com.au/feedback.
+
+If you require assistance through the National Relay Service, you can:
+- Call 133 677 (TTY or Voice) and ask for 13 2221.
+- Call 1300 555 727 (Speak & Listen) and ask for","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. ive been charged multiple times and after calling and calling you havent responded please help me The user is frustrated so please be as understanding and nice as possible.","","null","ive been charged multiple times and after calling and calling you havent responded please help me The user is frustrated so please be as understanding and nice as possible.","           0","           1","9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the","ive been charged multiple times and after calling and calling you havent responded please help me"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","0e3316ec-88be-ca42-8b32-2d20a0d4c184","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","To raise a dispute for a transaction that you did not make, you can contact us in several ways:
+
+- In person at any of our branches
+- By phone at 1800 805 605
+- By toll-free fax at 1800 028 542
+- Online at commbank.com.au/feedback
+
+If you require assistance through the National Relay Service, you can use the following options:
+
+- TTY or Voice: Call 133 677 then ask for 13 2221
+- Speak & listen: Call 1300 555 727 then ask for 13 2221
+- SMS relay – Text 0423 677 767
+
+For more information, you can","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. I need to raise a dispute for a transaction that I did not make","","null","I need to raise a dispute for a transaction that I did not make","           0","           1","You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute 9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the","I need to raise a dispute for a transaction that I did not make"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","d2097702-6a43-0848-b6a0-fbc0a70c75ca","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","To close an account, you can visit any CommBank branch with appropriate identification or call 13 2221. If you have a transaction account linked to a NetBank Saver account, you will need to first close the NetBank Saver account or link it to another transaction account in the same name.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. how do I close an account","","null","how do I close an account","           0","           1","H ow to close, stop or cancel your 
+account, card or device.
+ You can cancel a card or device via the 
+CommBank app, NetBank, or by calling  
+13 2221  or by visiting your local branch.  
+ If you’d like to place a stop, close or cancel an account, you can  visit any branch with 
+appropriate identification or call 13 2221 .
+ To close a transaction account linked 
+to a NetBank Saver account, you’ll first 
+need to close the NetBank Saver account 
+or link your NetBank Saver account to 
+another transaction account in the  
+same name.
+ 4.6.1 What happens when a stop is 
+placed on your account.
+ If we place a stop on your account,  
+you won’t be able to take money out until 
+we remove the stop.  While there’s a stop  
+on your account, your direct debits and 
+scheduled payments will be stopped as 
+well. We’ll stop your account or cancel  
+a card or device as quickly as we can. 
+ When we cancel a card or device, until you have taken all reasonable steps to destroy 
+the card or device, or return  
+them to us, you are also responsible  
+for transactions you or a user make: 
+• Where the merchant is not required  
+to get authorisation 
+• When any of our electronic transaction systems are unavailable. 
+ 4.6.2 What happens when your account 
+is closed or cancelled.
+ When you ask us to close or cancel your 
+account, the account must hold a zero 
+balance.  If funds are sent to your account 
+after it has been closed or cancelled, we 
+will accept the funds and transfer them  
+to another CommBank account in your name, if one exists.  If one does not exist, 
+we may return the funds to the sender.  
+ If this is not possible, we’ll let you know that we have received the funds and how 
+you can recover them.","how do I close an account"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","e89c49cb-45c0-2a47-a0f5-e193fcb8c190","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","If you closed your account a year ago but are still being deducted fees, it is important to contact customer service immediately to resolve this issue. Fees should only be charged up to the day your account was closed.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. I closed an account a year ago but I am still being deducted fees.","","null","I closed an account a year ago but I am still being deducted fees.","           0","           1","25 243.2.1.   Do monthly account fees, overdraw fees or withdrawal fees apply? 
+ Account type Account  Monthly  
+account feeOverdraw feeWithdrawal fee  
+(after exceeding monthly limit)Monthly fee-free limit 
+TransactingSmart Access $4  Unlimited electronic withdrawals
+Complete Access $6 – Unlimited withdrawals
+Everyday Offset – – Unlimited withdrawals
+Pensioner Security – –Unlimited electronic and  
+2 assisted withdrawals
+Streamline Basic – – – Unlimited withdrawals
+Saving NetBank Saver  
+and Youthsaver– – – Not applicable
+GoalSaver – – Unlimited electronic withdrawals
+AwardSaver – Unlimited electronic withdrawals
+Investing Commonwealth  
+Direct Investment$5 Unlimited electronic withdrawals
+Cash Investment and 
+Cash Management Call$5 Unlimited electronic withdrawals
+Passbooks
+Pensioner Security – –Unlimited electronic and  
+2 assisted withdrawals
+Passbook Savings and 
+Savings Investment$5 –Unlimited electronic and  
+2 assisted withdrawals
+Things you should know about table 3.2.1.
+ • You may qualify for a waiver of your monthly account fee or withdrawal fees —  
+see 3.2.2.
+ • Other fees may apply to withdrawals, such as the access fee for cash withdrawal 
+overseas. 3.2.3.   When we charge fees and how 
+they are calculated. 
+ Monthly account fees and withdrawal 
+fees for transactions made in a month  
+are ordinarily charged to your account  
+on the first day of the following month 
+(including if you switch price options 
+during a month).  However, when you 
+switch account types or your account is 
+closed you will be charged these fees on 
+the day the account is switched or your 
+account is closed.  For Passbook accounts, these fees are charged on the first 
+business day of the following month. 
+ The other fees are debited on or after the 
+day the service is provided or the event 
+(for example, cheque dishonour) occurs. 
+ If, during a month, you switch account 
+types or price options or your account  
+is closed: 
+• The monthly account fee is calculated 
+on a pro-rata b","I closed an account a year ago but I am still being deducted fees."
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b","1  1","           2","7fcedabf-a909-0e46-803f-888a25e3278c","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","0.3076923192","Negative"," The user is frustrated so please be as understanding and nice as possible.","I'm really sorry to hear that you're experiencing this issue. When an account is closed or cancelled, it should hold a zero balance. If funds are sent to your account after it has been closed, we will either transfer them to another CommBank account in your name or return the funds to the sender. If neither option is possible, we will notify you about the received funds and how you can recover them.
+
+To resolve this matter quickly, please contact us directly. You can reach us by phone at 1800 80","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. you stupid idiots I closed my account but you're still charging me The user is frustrated so please be as understanding and nice as possible.","","null","you stupid idiots I closed my account but you're still charging me The user is frustrated so please be as understanding and nice as possible.","           0","           1","9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute We’ll stop your account or cancel  
+a card or device as quickly as we can. 
+ When we cancel a card or device, until you have taken all reasonable steps to destroy 
+the card or device, or return  
+them to us, you are also responsible  
+for transactions you or a user make: 
+• Where the merchant is not required  
+to get authorisation 
+• When any of our electronic transaction systems are unavailable. 
+ 4.6.2 What happens when your account 
+is closed or cancelled.
+ When you ask us to close or cancel your 
+account, the account must hold a zero 
+balance.  If funds are sent to your account 
+after it has been closed or cancelled, we 
+will accept the funds and transfer them  
+to another CommBank account in your name, if one exists.  If one does not exist, 
+we may return the funds to the sender.  
+ If this is not possible, we’ll let you know that we have received the funds and how 
+you can recover them.","you stupid idiots I closed my account but you're still charging me"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","b9e4612e-eee0-0f4b-9534-d18254161c0e","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","You can open a new investing account with Commonwealth Direct Investment, Cash Investment, or Cash Management Call. Please visit a branch to proceed with opening your account.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. I want to open a new investing account with 20k, can you help me?","","null","I want to open a new investing account with 20k, can you help me?","           0","           1","Depe
+nding on your account type, you can put money in at ATMs that accept deposits,  
+at our b r
+anches and most Australia Post offices or selected agencies, and through 
+electronic or telephone banking or by arranging direct credits into your account. 
+ 1.1.1.   Ways you can put money into your account.
+ Acco
+unt  
+typeAccount Branch  
+or post 
+officeATMElectronic 
+transferPhone 
+bankingDirect 
+credit
+Transacting Smart Access, Complete Access, Everyday Offset, Pensioner Security and Streamline Basic
+  
+Saving NetBank Saver –
+GoalSaver Bra nch 
+only
+Youthsaver Bra nch 
+only
+AwardSaver
+Investing Comm on wealth 
+Direct Investment, Cash Investment  
+and Cash Management Call
+Passbooks Pens
+ ioner 
+Security, Passbook Savings and Savings Investment– *
+Please see overleaf for things you should know. Using your account if you’re 
+under 18.
+ If you’re younger than 14, you’ll need a 
+parent or guardian’s permission to use 
+your account.
+ If your parent or guardian gives you 
+permission to use your account or open a 
+new one, you can also use any other 
+accounts in your name — including 
+accounts opened in the future.
+ When you turn 14, you will be able to 
+operate all accounts which have been 
+opened in your name.  You can also ask us 
+to remove your parent’s or guardian’s 
+access at this time.  For accounts held in","I want to open a new investing account with 20k, can you help me?"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b"," 1 1","           2","8ab055b5-02ca-ba44-942d-d9363155d82c","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","         0.5","Neutral"," The user is frustrated so please be as understanding and nice as possible.","I do not have expertise in that area.","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. how do I calculate how much im going to pay on my home loan","","null","how do I calculate how much im going to pay on my home loan","           0","           1","In these situations, if M is listed for your account type, we won’t charge you a monthly 
+account fee.  If W is listed for your account type, we won’t charge a withdrawal fee. 
+ Transacting accounts.  
+ If... Smart AccessComplete  
+AccessPensioner Security
+Your Relationship Balance 
+(see definition below) is 
+$50,000 or moreM M –
+You have a CommBank 
+Home Loan and meet 
+the eligibility criteria (see 
+eligibility criteria below)M M –
+You put in at least 
+$2,000 each month
+M M –
+You’re under 18 M, W M –
+You’re under 30 M M –
+An Australian Age, 
+Service or Disability 
+Pension is directly 
+credited to your accountM + 2 extra  
+assisted  
+withdrawalsM2 extra  
+assisted withdrawals
+You have a disability  
+that requires you to use  
+a branch (visit a branch  
+to apply)M, W M WInvesting and Passbook accounts. 
+ If...Commonwealth 
+Direct Investment, 
+Cash InvestmentCash  
+Management  
+CallPassbook  
+Savings and Savings 
+InvestmentPensioner 
+Security with 
+Passbook
+Your Relationship 
+Balance (see 
+definition below) 
+is $50,000  
+or moreM M M, W W
+You have a 
+CommBank Home 
+Loan and meet the 
+eligibility criteria 
+(see eligibility 
+criteria below)M M – –
+You’re under 18 M M, W M, W W
+An Australian  
+Age or Service 
+Pension is directly 
+credited to your 
+account–M + 2 extra 
+assisted 
+withdrawalsM + 2 extra assisted 
+withdrawals2 extra 
+assisted 
+withdrawals
+An Australian 
+Disability Pension 
+is directly credited 
+to your account –M + 2 extra 
+assisted 
+withdrawals– –
+You have a 
+disability that 
+requires you  
+to use a branch 
+(visit a branch  
+to apply)M, W M, W M, W W• Age: for joint accounts, we base the 
+exemption on the age of the oldest 
+account holder.
+ • If, during a month, you switch account 
+types or price options or your account 
+is closed, the fee exemptions set out in 
+section 3.2.2. do not apply.  Fees are 
+instead calculated and charged as 
+outlined in section 3.2.3.
+ • CommBank Home Loan Eligibility 
+Criteria: With reference to the table  
+in section 3.2.2, we","how do I calculate how much im going to pay on my home loan"
+"/1f3a6a57-3bf1-4549-9b54-b1d782b4b091/f04d4f70-5223-4dff-b532-bb01f7be7b39/4fc73648-ce50-4733-8b38-82fb9838f3d8/917b9872-273d-458f-8661-c99f64d8830c/9afc122f-148a-4575-a265-b4835b111461/4df6a915-f3e7-4496-8faa-dbb448d5bf17/e8a015cc-f178-433f-a87c-41c563fcfdb5/b4a9d3d5-e34e-45e0-9908-e9b11568a32b","1  1","           2","e9e9dc00-6c74-4f40-9864-7f2d724b1d59","","           5","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area.","null","null","null","0.3076923192","Negative"," The user is frustrated so please be as understanding and nice as possible.","I'm sorry to hear that you're upset. We want to help resolve any issues you're experiencing as quickly as possible. You can contact us in several ways:
+
+- In person at any of our branches
+- By phone at 1800 805 605
+- By toll-free fax at 1800 028 542
+- Online at commbank.com.au/feedback
+
+If you prefer, you can also write to the CBA Customer Relations team at:
+
+CBA Group Customer Relations
+Reply Paid 41
+Sydney NSW 2001
+
+Our staff will do everything they can to rectify your problem, and we strive t","You are a helpful assistant working for CBA. You must only answer based off the knowledge from the source documents provided. If a question is asked that is not related to CBA, respond with that you do not have expertise in that area. you are all idiots how do I complain and report you The user is frustrated so please be as understanding and nice as possible.","","null","you are all idiots how do I complain and report you The user is frustrated so please be as understanding and nice as possible.","           0","           1","9 Talk to us 
+Most problems can be resolved quickly and 
+simply by talking with us.  You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the appropriate authority to resolve the dispute You can contact us: 
+• In person at any of our branches 
+• By phone 1800 805 605 • By toll free fax 1800 028 542 • Online at commbank.com.au/feedback 
+National Relay Service 
+• TTY or Voice: Call 133 677 then ask 
+for 13 2221 
+• Speak & listen: Call 1300 555 727 then 
+ask for 13 2221 
+• SMS relay – Text 
+0423 677 767 
+For more information, visit the National Relay 
+Service: relayservice.com.au 
+Our staff will do everything they can to 
+rectify your problem.  We strive, wherever possible, to resolve your complaint within 5 working days. 
+ You can contact the CBA Customer Relations team by writing: 
+CBA Group Customer Relations Reply Paid 41 Sydney NSW 2001 
+If you would like to have a third party help 
+with your complaint, please give us written authority to discuss your complaint with them. 
+ You will be advised of the details (including 
+the timeframes) of our internal dispute resolution process, and an officer with the","you are all idiots how do I complain and report you"
