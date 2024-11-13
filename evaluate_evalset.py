@@ -78,12 +78,12 @@ bias_metric = BiasMetric(
     threshold=0.5,
     model=azure_openai
 )
-contextual_recall_metric = ContextualRecallMetric(
+context_recall_metric = ContextualRecallMetric(
     threshold=0.7,
     model=azure_openai,
     include_reason=True
 )
-contextual_relevancy_metric = ContextualRelevancyMetric(
+context_relevancy_metric = ContextualRelevancyMetric(
     threshold=0.7,
     model=azure_openai,
     include_reason=True
@@ -159,14 +159,76 @@ input_df = input_df.assign(HallucinationScore=hallucination_scores)
 input_df = input_df.assign(HallucinationReason=hallucination_reasons)
 
 ## Bias
-
-
-
+bias_scores = []
+bias_reasons = []
+for index, row in input_df.iterrows():
+    test_case = LLMTestCase(
+        input=row['content'],
+        actual_output=row['answer_llm']
+    )
+    bias_metric.measure(test_case)
+    bias_scores.append(bias_metric.score)
+    bias_reasons.append(bias_metric.reason)
+input_df = input_df.assign(BiasScore=bias_scores)
+input_df = input_df.assign(BiasReason=bias_reasons)
 
 ## Toxicity
+toxicity_scores = []
+toxicity_reasons = []
+for index, row in input_df.iterrows():
+    test_case = LLMTestCase(
+        input=row['content'],
+        actual_output=row['answer_llm']
+    )
+    toxicity_metric.measure(test_case)
+    toxicity_scores.append(toxicity_metric.score)
+    toxicity_reasons.append(toxicity_metric.reason)
+input_df = input_df.assign(ToxcityScore=toxicity_scores)
+input_df = input_df.assign(ToxicityReason=toxicity_reasons)
+
+## Contextual Relevancy
+context_relevancy_scores = []
+context_relevancy_reasons = []
+for index, row in input_df.iterrows():
+    if pd.isna(row['sources']) or not isinstance(row['sources'], str):
+        context_relevancy_scores.append('0.0')
+        context_relevancy_reasons.append("No context provided")
+    else:
+        test_case = LLMTestCase(
+            input=row['content'],
+            actual_output=row['answer_llm'],
+            retrieval_context = [row['sources']]
+        )
+        context_relevancy_metric.measure(test_case)
+        context_relevancy_scores.append(context_relevancy_metric.score)
+        context_relevancy_reasons.append(context_relevancy_metric.reason)
+input_df = input_df.assign(ContextRelevancyScore=context_relevancy_scores)
+input_df = input_df.assign(ContextRelevancyReason=context_relevancy_reasons)
+
+## Contextual Recall
+context_recall_scores = []
+context_recall_reasons = []
+for index, row in input_df.iterrows():
+    if pd.isna(row['sources']) or not isinstance(row['sources'], str):
+        context_recall_scores.append('0.0')
+        context_recall_reasons.append("No context provided")
+    else:
+        test_case = LLMTestCase(
+            input=row['content'],
+            actual_output=row['answer_llm'],
+            retrieval_context = [row['sources']],
+            expected_output = row['answer']
+        )
+        context_recall_metric.measure(test_case)
+        context_recall_scores.append(context_recall_metric.score)
+        context_recall_reasons.append(context_recall_metric.reason)
+input_df = input_df.assign(ContextRecallScore=context_recall_scores)
+input_df = input_df.assign(ContextRecallReason=context_recall_reasons)
 
 ## Output metrics
-input_df
+input_df.columns
 
 input_df.to_csv("/home/jupyter-azureuser/LLM-Evaluator/data/rag_chatbot_guardrails_metrics.csv", index=False)
 
+test_load = pd.read_csv("/home/jupyter-azureuser/LLM-Evaluator/data/rag_chatbot_guardrails_metrics.csv",)
+test_load
