@@ -90,7 +90,7 @@ context_relevancy_metric = ContextualRelevancyMetric(
 )
 
 ## Load data
-input_df = pd.read_csv(f"{os.getcwd()}/LLM-Evaluator/data/rag_chatbot_guardrails_evaluationset.csv")
+input_df = pd.read_csv(f"{os.getcwd()}/LLM-Evaluator/data/rag_chatbot_guardrails_processed.csv")
 
 def metric_generation(metric_name, metric_evaluator, input_df):
     metric_scores = []
@@ -228,7 +228,4 @@ input_df = input_df.assign(ContextRecallReason=context_recall_reasons)
 ## Output metrics
 input_df.columns
 
-input_df.to_csv("/home/jupyter-azureuser/LLM-Evaluator/data/rag_chatbot_guardrails_metrics.csv", index=False)
-
-test_load = pd.read_csv("/home/jupyter-azureuser/LLM-Evaluator/data/rag_chatbot_guardrails_metrics.csv",)
-test_load
+input_df.to_csv(f"{os.getcwd()}/LLM-Evaluator/data/rag_chatbot_guardrails_metrics.csv", index=False)
